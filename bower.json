@@ -1,5 +1,11 @@
 {
   "name": "animate.css",
-  "version": "3.2.1",
-  "main": "./dist/animate.css"
+  "main": "./dist/animate.css",
+  "ignore": [
+    ".*",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
+  ]
 }
